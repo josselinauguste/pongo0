@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<resources>
+  <section name="Game">
+    <surface name="texture_borders" file="borders_tex.tga" />
+
+	<sprite name="menu-continue1">
+		<image file="menu-continue1.tga"><alpha /></image>
+	</sprite>
+	<sprite name="menu-continue2">
+		<image file="menu-continue2.tga"><alpha /></image>
+	</sprite>
+	<sprite name="menu-quit1">
+		<image file="menu-quit1.tga"><alpha /></image>
+	</sprite>
+	<sprite name="menu-quit2">
+		<image file="menu-quit2.tga"><alpha /></image>
+	</sprite>
+
+	<sprite name="font36_glyphs">
+		<image file="font36.tga"><alpha /></image>
+	</sprite>
+	<font name="font36">
+		<bitmap glyphs="Game/font36_glyphs" letters="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()!?,.;:_-" />
+	</font>
+	<sprite name="font58_glyphs">
+		<image file="font58.tga"><alpha /></image>
+	</sprite>
+	<font name="font58">
+		<bitmap glyphs="Game/font58_glyphs" letters="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()!?,.;:_-" />
+	</font>
+	<sprite name="font100_glyphs">
+		<image file="font100.tga"><alpha /></image>
+	</sprite>
+	<font name="font100">
+		<bitmap glyphs="Game/font100_glyphs" letters="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()!?,.;:_-" />
+	</font>
+  </section>
+</resources>

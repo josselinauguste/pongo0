@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-15" standalone="yes"?>
+<settings>
+	<screen>
+		<width value="800" />
+		<height value= "600" />
+		<fullscreen value="true" />
+	</screen>
+	<player nickname="jojolapin">
+		<right_key value="D" />
+		<left_key value="Q" />
+		<up_key value="Z" />
+		<down_key value="S" />
+		<color r="22" g="209" b="204" />
+	</player>
+	<player nickname="BenO">
+		<right_key value="M" />
+		<left_key value="K" />
+		<up_key value="O" />
+		<down_key value="L" />
+		<color r="255" g="69" b="0" />
+	</player>
+	<racket-color r="255" g="127" b="80" />
+	<racket-color r="127" g="255" b="0" />
+	<racket-color r="138" g="43" b="226" />
+	<racket-color r="255" g="215" b="0" />
+	<racket-color r="173" g="255" b="47" />
+	<ai-nickname value="Homer" />
+	<ai-nickname value="Marge" />
+	<ai-nickname value="Bart" />
+	<ai-nickname value="Lisa" />
+	<ai-nickname value="Maggie" />
+	<ai-nickname value="Moe" />
+	<ai-nickname value="Barney" />
+	<ai-nickname value="M. Burns" />
+	<ai-nickname value="M. Smithers" />
+	<ai-nickname value="Lenny" />
+	<ai-nickname value="Carl" />
+	<ai-nickname value="Le maire Quimby" />
+	<ai-nickname value="Apu" />
+	<ai-nickname value="Ned Flanders" />
+	<ai-nickname value="Le chef Wiggum" />
+	<ai-nickname value="Seymour Skinner" />
+	<ai-nickname value="Willy le jardinier" />
+	<ai-nickname value="Milhouse" />
+	<ai-nickname value="Nelson" />
+</settings>
